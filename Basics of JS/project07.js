@@ -6,11 +6,11 @@
 let firstName = "       harsHIt";
 firstName = "harsHIt";
 
-// console.log(firstName.length);
-// firstName = firstName.trim(); // "harshit"
+console.log(firstName.length);
+firstName = firstName.trim(); // "harshit"
 
-// console.log(firstName);
-// console.log(firstName.length);
+console.log(firstName);
+console.log(firstName.length);
 
 // firstName = firstName.toUpperCase();
 // firstName = firstName.toLowerCase();
