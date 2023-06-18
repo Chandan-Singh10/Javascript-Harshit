@@ -1,2 +1,2 @@
-let poppedFruits = fruits.pop();
-console.log(fruits);
+fruits.push("banana");
+// console.log(fruits);

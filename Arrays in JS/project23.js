@@ -11,6 +11,7 @@ console.log(fruits);
 //pop 
 // last se element delete kerta ha
 // fruits.pop();
+  
 // let poppedFruits = fruits.pop();
 // console.log(fruits);
 // console.log("popped fruits is", poppedFruits);
@@ -20,10 +21,11 @@ console.log(fruits);
 // array, [shift | unshift]
 
 // unshift 
-// first element se insert kerta ha
-fruits.unshift("banana");
-fruits.unshift("myfruit");
-console.log(fruits);
+// first element se insert kerna suru kerta ha
+// fruits.unshift("banana");
+// fruits.unshift("Litchi");
+// fruits.unshift("Pineapple");
+// console.log(fruits);
 
 
 // shift 
