@@ -5,7 +5,7 @@
 
 let firstName = "       harsHIt";
 
-// firstName = "harsHIt";
+
 
 console.log(firstName.length); 
 firstName = firstName.trim(); // "harsHIt"
@@ -16,6 +16,7 @@ console.log(firstName.length);
 // firstName = firstName.toLowerCase();
 firstName = firstName.toUpperCase();
 console.log(firstName);
+
 
 // start index
 // end index
