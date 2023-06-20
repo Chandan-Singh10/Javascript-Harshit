@@ -1,2 +1,3 @@
-let newString = firstName.slice(0, 5); // Doesn't include end index
-console.log(newString);
+firstName = firstName.toUpperCase();
+firstName = firstName.toLowerCase();
+console.log(firstName);

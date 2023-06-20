@@ -4,17 +4,18 @@
 // slice()
 
 let firstName = "       harsHIt";
-firstName = "harsHIt";
 
-console.log(firstName.length);
-firstName = firstName.trim(); // "harshit"
+// firstName = "harsHIt";
+
+console.log(firstName.length); 
+firstName = firstName.trim(); // "harsHIt"
 
 console.log(firstName);
 console.log(firstName.length);
 
-// firstName = firstName.toUpperCase();
 // firstName = firstName.toLowerCase();
-// console.log(firstName);
+firstName = firstName.toUpperCase();
+console.log(firstName);
 
 // start index
 // end index
