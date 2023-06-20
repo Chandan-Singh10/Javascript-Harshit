@@ -6,7 +6,6 @@
 let firstName = "       harsHIt";
 
 
-
 console.log(firstName.length); 
 firstName = firstName.trim(); // "harsHIt"
 
