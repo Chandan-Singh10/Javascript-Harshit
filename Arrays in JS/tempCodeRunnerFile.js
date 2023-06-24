@@ -1,2 +1,2 @@
 fruits.push("banana");
-// console.log(fruits);
+console.log(fruits);
